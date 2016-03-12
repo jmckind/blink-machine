@@ -1,2 +1,2 @@
-# state-machine
-A simple application to manage state.
+# blink-machine
+A simple application to manage a blinkm smart LED.
