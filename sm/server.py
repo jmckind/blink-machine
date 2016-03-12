@@ -29,7 +29,7 @@ class RGBResource:
             data['blue']
         )
 
-        blinkm.fade_to(
+        self.blinkm.fade_to(
             self.rgb[0],
             self.rgb[1],
             self.rgb[2]
